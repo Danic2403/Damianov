@@ -1,7 +1,7 @@
 # Damianov
 Dani
 Масива който се дели на 2 долу
-
+{
 int[] array = new int[10];
     for (int i = 0; i < 10; i++)
     {
@@ -32,4 +32,4 @@ int right = array.Length - 1;
         Console.WriteLine($"Числото {n} не е намерено в масива.");
     }
     
-    
+    }
